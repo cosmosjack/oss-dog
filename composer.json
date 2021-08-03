@@ -1,0 +1,21 @@
+{
+    "name": "oss_dog/test",
+    "description": "test composer",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "OssDog\\Test\\": "src/Test",
+            "OssDog\\Upload\\": "src/Upload"
+
+        }
+    },
+    "authors": [
+        {
+            "name": "jack",
+            "email": "997823131@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
