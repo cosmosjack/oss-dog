@@ -3,6 +3,7 @@
     "description": "test composer",
     "type": "library",
     "license": "mit",
+    "version": "v1.2.0",
     "autoload": {
         "psr-4": {
             "OssDog\\Test\\": "src/Test",
